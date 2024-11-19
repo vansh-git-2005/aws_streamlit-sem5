@@ -32,6 +32,8 @@ sudo apt install python3-pip
 
 ```bash
 pip3 install -r requirements.txt
+or
+pip install -r requirements.txt --break-system-packages
 ```
 
 ```bash
