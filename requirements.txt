@@ -1,9 +1,2 @@
 ### dependency
-pandas 
-numpy 
-plotly
-yfinance
-tensorflow 
-scikit-learn 
-requests 
 streamlit
